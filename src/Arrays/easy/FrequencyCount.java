@@ -1,7 +1,8 @@
-package Arrays;
+package Arrays.easy;
 
 /*
- No. 4
+ HASHMAP
+ No. 1
  Problem: Frequency of Elements in an Array
  Pattern: HashMap + Counting
  Status: ✅ Solved

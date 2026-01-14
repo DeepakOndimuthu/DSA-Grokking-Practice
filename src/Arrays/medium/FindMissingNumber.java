@@ -1,7 +1,8 @@
-package Arrays;
+package Arrays.medium;
 
 /*
- No. 6
+ MEDIUM
+ No. 2
  Problem: Find Missing Number (1 to N)
  LeetCode: 268 (Missing Number)
  Pattern: Sum Formula

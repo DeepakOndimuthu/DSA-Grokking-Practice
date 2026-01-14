@@ -1,7 +1,8 @@
-package Arrays;
+package Arrays.easy;
 
 /*
- No. 2
+ EASY
+ No. 3
  Problem: Reverse an Array
  Pattern: Two Pointers
  Status: ✅ Solved

@@ -1,7 +1,8 @@
-package Arrays;
+package Arrays.easy;
 
 /*
- No. 3
+ EASY
+ No. 5
  Problem: Count Even and Odd Numbers in an Array
  Pattern: Array Traversal + Counting
  Status: ✅ Solved

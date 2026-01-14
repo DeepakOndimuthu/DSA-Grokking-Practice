@@ -1,7 +1,8 @@
-package Arrays;
+package Arrays.easy;
 
 /*
- No. 8
+ EASY
+ No. 4
  Problem: Check if Array is Sorted
  Pattern: Neighbor Comparison
   LeetCode: 1752 (Check if Array Is Sorted and Rotated - extended interview version)

@@ -1,6 +1,7 @@
-package Arrays;
+package Arrays.easy;
 
 /*
+ EASY
  No. 1
  Problem: Find Maximum Element in an Array
  Pattern: Array Traversal

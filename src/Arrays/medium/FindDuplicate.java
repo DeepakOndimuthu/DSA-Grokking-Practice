@@ -1,7 +1,8 @@
-package Arrays;
+package Arrays.medium;
 
 /*
- No. 5
+MEDIUM
+ No. 1
  Problem: Find Duplicate Element in an Array
  LeetCode: 217 (Contains Duplicate)
  Pattern: HashSet

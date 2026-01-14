@@ -1,7 +1,8 @@
-package Arrays;
+package Arrays.easy;
 
 /*
- No. 10
+ EASY
+ No. 7
  Problem: Find Second Largest Element in an Array
  Pattern: Two Variables
  Status: ✅ Solved

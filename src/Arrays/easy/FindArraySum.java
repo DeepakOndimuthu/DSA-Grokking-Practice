@@ -1,7 +1,8 @@
-package Arrays;
+package Arrays.easy;
 
 /*
- No. 9
+ EASY
+ No. 6
  Problem: Find Sum of Array Elements
  Pattern: Simple Traversal
  Status: ✅ Solved

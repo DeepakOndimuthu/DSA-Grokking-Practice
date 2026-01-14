@@ -1,7 +1,8 @@
-package Arrays;
+package Arrays.easy;
 
 /*
- No. 7
+ EASY
+ No. 2
  Problem: Find Minimum Element in an Array
  Pattern: Simple Traversal
  Status: ✅ Solved

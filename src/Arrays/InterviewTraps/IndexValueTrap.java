@@ -1,7 +1,7 @@
 package Arrays.InterviewTraps;
 
 /*
- No. 7
+ No. 2
  Problem: Index vs Value Confusion (Trap Question)
  Pattern: Logical understanding
  Status: ✅ Solved
