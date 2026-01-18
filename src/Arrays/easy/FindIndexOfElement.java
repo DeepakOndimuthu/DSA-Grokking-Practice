@@ -5,6 +5,7 @@ package Arrays.easy;
  Problem: Find Index of an Element in an Array
  Pattern: Linear Search
  Status: ✅ Solved
+ LeetCode similar : 35 & 704
 
  Input:
  nums = [10, 20, 30, 40, 50]
