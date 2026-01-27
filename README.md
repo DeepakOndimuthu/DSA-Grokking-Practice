@@ -5,6 +5,11 @@ focused on **Indian technical interviews** (service + product companies).
 
 ---
 
+## 📂 Where to find the full problem list
+please check the files inside the `src/problem_list` file
+
+---
+
 ## Learning Approach (Interview-First)
 
 Instead of completing the full Grokking course, I follow this strategy:
