@@ -1,0 +1,232 @@
+# 📘 DSA Practice Roadmap
+
+## ✅ STEP 1: FULL MUST-KNOW DSA TOPICS
+
+---
+
+## 🟢 LEVEL 0 – ABSOLUTE BASICS
+
+---
+
+## 1️⃣ ARRAYS (25 problems)
+
+### 🟢 EASY (Basics & Confidence)
+1. Find maximum element in an array ✅  
+2. Find minimum element in an array ✅  
+3. Reverse an array ✅ (LeetCode 344)  
+4. Check if array is sorted ✅ (LeetCode 1752)  
+5. Count even and odd numbers ✅  
+6. Find sum of array elements ✅  
+7. Find second largest element ✅ (LeetCode 414, 215)  
+8. Move all zeros to end ✅ (LeetCode 283)  
+9. Count occurrences of a given number ✅ (LeetCode 2089, 34)  
+10. Find index of an element ✅ (LeetCode 35, 704)  
+
+### 🟡 MEDIUM (Interview Level)
+11. Find duplicate element in array ✅ (LeetCode 217)  
+12. Find missing number (1 to N) ✅ (LeetCode 268)  
+13. Two Sum ✅ (LeetCode 1)  
+14. Majority element ✅ (LeetCode 169)  
+15. Rotate array (left / right) ✅ (LeetCode 189)  
+16. Best time to buy and sell stock ✅ (LeetCode 121, 122, 123)  
+17. Remove duplicates from sorted array ✅ (LeetCode 26)  
+18. Find intersection of two arrays ✅ (LeetCode 349, 350)  
+19. Find union of two arrays ✅ (LeetCode 349, 88)  
+20. Maximum subarray sum (Kadane) ✅ (LeetCode 53)  
+
+### 🔴 MIXED / TRAPS / REVISION
+21. Array with negative numbers (even/odd logic) ✅  
+22. Edge case: empty array ✅  
+23. Edge case: single element ✅  
+24. Index vs value confusion ✅  
+25. Time & space complexity questions
+
+---
+
+## 2️⃣ STRINGS (25 problems)
+
+### 🟢 EASY
+1. Reverse a string  
+2. Check palindrome  
+3. Count vowels and consonants  
+4. Convert string to lowercase / uppercase  
+5. Find length of string  
+6. Remove spaces from string  
+7. Count words in a string  
+8. Find first character  
+9. Compare two strings  
+10. Print characters of string  
+
+### 🟡 MEDIUM
+11. Check anagram  
+12. Frequency of characters  
+13. First non-repeating character  
+14. Reverse words in a string  
+15. Remove duplicate characters  
+16. Valid palindrome (ignore symbols)  
+17. Longest common prefix  
+18. Check rotation of string  
+19. Replace characters  
+20. String compression  
+
+### 🔴 MIXED / TRAPS
+21. String vs char[] difference  
+22. length() vs length  
+23. Empty string cases  
+24. Unicode / case sensitivity  
+25. Time complexity of string operations  
+
+---
+
+## 3️⃣ HASHMAP / HASHSET (25 problems)
+
+### 🟢 EASY
+1. Frequency of elements ✅  
+2. Count characters using HashMap  
+3. Check duplicates using HashSet  
+4. First repeating element  
+5. Unique elements count  
+6. Check if all elements are unique  
+7. Count words in a sentence  
+8. Find element with frequency 1  
+9. Pair sum using HashMap  
+10. Basic map operations  
+
+### 🟡 MEDIUM
+11. Two Sum (HashMap)  
+12. Majority element  
+13. First unique character  
+14. Top K frequent elements  
+15. Subarray with sum zero  
+16. Check anagram using map  
+17. Longest substring without repeating characters  
+18. Count pairs with given sum  
+19. Group anagrams  
+20. Frequency sorting  
+
+### 🔴 MIXED / TRAPS
+21. Key overwrite mistake  
+22. Null handling  
+23. Map vs Set usage  
+24. Iterating map correctly  
+25. Space complexity discussion  
+
+---
+
+## 4️⃣ TWO POINTERS (25 problems)
+
+### 🟢 EASY
+1. Reverse array  
+2. Reverse string  
+3. Check palindrome  
+4. Move zeros  
+5. Remove duplicates (sorted array)  
+6. Pair sum in sorted array  
+7. Compare two arrays  
+8. Merge two sorted arrays  
+9. Find middle element  
+10. Basic pointer movement  
+
+### 🟡 MEDIUM
+11. Two Sum (sorted)  
+12. Container with most water  
+13. Remove element  
+14. Square of sorted array  
+15. Triplet sum  
+16. Partition array  
+17. Valid palindrome II  
+18. Closest pair sum  
+19. Sort colors  
+20. Dutch National Flag  
+
+### 🔴 MIXED / TRAPS
+21. Left == right case  
+22. Odd / even length center  
+23. Infinite loop mistakes  
+24. Pointer update order  
+25. Time complexity explanation  
+
+---
+
+## 5️⃣ SLIDING WINDOW (25 problems)
+
+### 🟢 EASY
+1. Maximum sum subarray of size K  
+2. Average of subarrays  
+3. Count subarrays  
+4. Fixed window sum  
+5. Window traversal basics  
+6. Min sum window  
+7. Simple window max  
+8. Print all windows  
+9. Window size logic  
+10. Edge cases  
+
+### 🟡 MEDIUM
+11. Longest substring without repeating chars  
+12. Longest subarray with sum K  
+13. Max consecutive ones  
+14. Smallest subarray with sum ≥ K  
+15. Variable window problems  
+16. Longest repeating character replacement  
+17. Permutation in string  
+18. Anagram occurrences  
+19. Fruits into baskets  
+20. Window expand/shrink logic  
+
+### 🔴 MIXED / TRAPS
+21. Window not shrinking  
+22. Incorrect window size  
+23. HashMap + window confusion  
+24. Negative numbers issue  
+25. Complexity questions  
+
+---
+
+## 🟡 LEVEL 1 – CORE DATA STRUCTURES
+
+### 6️⃣ STACK
+- Valid parentheses  
+- Reverse string using stack  
+- Min stack  
+- Next greater element  
+- Stack using array  
+- Stack using linked list  
+
+### 7️⃣ QUEUE / DEQUE
+- Queue implementation  
+- Circular queue  
+- Stack using queue  
+- Sliding window maximum  
+- Deque basics  
+
+### 8️⃣ LINKED LIST (VERY IMPORTANT)
+- Traverse linked list  
+- Reverse linked list  
+- Find middle  
+- Detect cycle  
+- Remove nth node  
+- Merge two lists  
+
+### 9️⃣ RECURSION (BASIC)
+- Print numbers  
+- Factorial  
+- Fibonacci  
+- Reverse string  
+- Sum of array  
+- Recursion vs loop  
+
+---
+
+## 🔵 LEVEL 2 – TREES & SEARCHING
+- 🔟 Binary Search (very important)  
+- 1️⃣1️⃣ Trees (Binary Tree basics)  
+- 1️⃣2️⃣ Binary Search Tree (BST)  
+
+---
+
+## 🟣 LEVEL 3 – ADVANCED BUT MANDATORY
+- 1️⃣3️⃣ Heaps / Priority Queue  
+- 1️⃣4️⃣ Greedy Algorithms  
+- 1️⃣5️⃣ Graphs (basic BFS / DFS)  
+- 1️⃣6️⃣ Dynamic Programming (basic 1D first)  
