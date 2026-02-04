@@ -46,16 +46,16 @@
 ## 2️⃣ STRINGS (25 problems)
 
 ### 🟢 EASY
-1. Reverse a string  
-2. Check palindrome  
-3. Count vowels and consonants  
-4. Convert string to lowercase / uppercase  
-5. Find length of string  
-6. Remove spaces from string  
-7. Count words in a string  
-8. Find first character  
-9. Compare two strings  
-10. Print characters of string  
+1. Reverse a string ✅ (LeetCode 344)
+2. Check palindrome  ✅ (LeetCode 125 & 9)
+3. Count vowels and consonants ✅ (LeetCode 345, 2586, 1370 & 387)
+4. Convert string to lowercase / uppercase ✅ (LeetCode 709, 387 & 1370)
+5. Find length of string  ✅ (LeetCode  709,125 & 387)
+6. Remove spaces from string  ✅ (LeetCode 125 & 844)
+7. Count words in a string  ✅ (LeetCode 434)
+8. Find first character ✅ (LeetCode 387 & 709)
+9. Compare two strings ✅ (LeetCode 125 & 844)
+10. Print characters of string ✅ (LeetCode 344 & 387)
 
 ### 🟡 MEDIUM
 11. Check anagram  
