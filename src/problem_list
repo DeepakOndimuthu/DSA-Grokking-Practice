@@ -58,16 +58,16 @@
 10. Print characters of string ✅ (LeetCode 344 & 387)
 
 ### 🟡 MEDIUM
-11. Check anagram  
-12. Frequency of characters  
-13. First non-repeating character  
-14. Reverse words in a string  
-15. Remove duplicate characters  
-16. Valid palindrome (ignore symbols)  
-17. Longest common prefix  
-18. Check rotation of string  
-19. Replace characters  
-20. String compression  
+11. Check anagram ✅ (LeetCode 242)
+12. Frequency of characters ✅ (LeetCode 387, 242 & 1370)
+13. First non-repeating character ✅ (LeetCode 387)
+14. Reverse words in a string ✅ (LeetCode 151)
+15. Remove duplicate characters ✅ (LeetCode 316 & 1047)
+16. Valid palindrome (ignore symbols) ✅ (LeetCode 125)
+17. Longest common prefix ✅ (LeetCode 14)
+18. Check rotation of string ✅ (LeetCode 796)
+19. Replace characters ✅ (LeetCode 151 & 443)
+20. String compression ✅ (LeetCode 443)
 
 ### 🔴 MIXED / TRAPS
 21. String vs char[] difference  
