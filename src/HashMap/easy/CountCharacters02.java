@@ -61,3 +61,9 @@ public class CountCharacters02 {
         countCharacters(s);
     }
 }
+
+/*
+For string problems:
+1) If index needed → use charAt(i)
+2) If only traversal → use toCharArray()
+ */
