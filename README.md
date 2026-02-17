@@ -1,7 +1,7 @@
 ## DSA Interview Preparation (India-Focused 🇮🇳)
 
-This repository contains my **Data Structures and Algorithms (DSA) practice**
-focused on **Indian technical interviews** (service + product companies).
+This repository contains my Data Structures and Algorithms (DSA) practice,
+focused on **technical interview preparation** for service and product companies.
 
 ---
 
@@ -18,9 +18,7 @@ Instead of completing the full Grokking course, I follow this strategy:
 - Practice **frequently asked interview patterns**
 - Start with **easy → medium → traps**
 - Understand logic, edge cases, and time/space complexity
-- Revise until I can **explain clearly in interviews**
-
-🎯 Goal: **Clear interview rounds first, then master DSA deeply**
+- Maintain consistent practice and revision
 
 ---
 
