@@ -70,62 +70,62 @@
 20. String compression ✅ (LeetCode 443)
 
 ### 🔴 MIXED / TRAPS
-21. String vs char[] difference  
-22. length() vs length  
-23. Empty string cases  
-24. Unicode / case sensitivity  
-25. Time complexity of string operations  
+21. String vs char[] difference ✅
+22. length() vs length ✅
+23. Empty string cases ✅
+24. Unicode / case sensitivity ✅
+25. Time complexity of string operations ✅
 
 ---
 
 ## 3️⃣ HASHMAP / HASHSET (25 problems)
 
 ### 🟢 EASY
-1. Frequency of elements ✅  
-2. Count characters using HashMap  
-3. Check duplicates using HashSet  
-4. First repeating element  
-5. Unique elements count  
-6. Check if all elements are unique  
-7. Count words in a sentence  
-8. Find element with frequency 1  
-9. Pair sum using HashMap  
-10. Basic map operations  
+1. Frequency of elements ✅(leetcode or similar - 387 & 242)
+2. Count characters using HashMap ✅(leetcode or similar - 387 & 242)
+3. Check duplicates using HashSet ✅(leetcode or similar - 217)
+4. First repeating element ✅(leetcode or similar - 217)
+5. Unique elements count ✅(leetcode or similar - 217)
+6. Check if all elements are unique ✅(leetcode or similar - 217)
+7. Count words in a sentence ✅(leetcode or similar - 819)
+8. Find element with frequency 1 ✅(leetcode or similar - 136 & 387)
+9. Pair sum using HashMap ✅(leetcode or similar - #1)
+10. Basic map operations ✅
 
 ### 🟡 MEDIUM
-11. Two Sum (HashMap)  
-12. Majority element  
-13. First unique character  
-14. Top K frequent elements  
-15. Subarray with sum zero  
-16. Check anagram using map  
-17. Longest substring without repeating characters  
-18. Count pairs with given sum  
-19. Group anagrams  
-20. Frequency sorting  
+11. Two Sum (HashMap) ✅(leetcode or similar - #1)
+12. Majority element ✅(leetcode or similar - 169)
+13. First unique character ✅(leetcode or similar - 387)
+14. Top K frequent elements ✅(leetcode or similar - 347)
+15. Subarray with sum zero ✅(leetcode or similar - 560 & 523)
+16. Check anagram using map ✅(leetcode or similar - 242)
+17. Longest substring without repeating characters ✅(leetcode or similar - #3)
+18. Count pairs with given sum ✅(leetcode or similar - #15 & #18)
+19. Group anagrams ✅(leetcode or similar - 49)
+20. Frequency sorting ✅(leetcode or similar - 451)
 
 ### 🔴 MIXED / TRAPS
-21. Key overwrite mistake  
-22. Null handling  
-23. Map vs Set usage  
-24. Iterating map correctly  
-25. Space complexity discussion  
+21. Key overwrite mistake ✅
+22. Null handling ✅
+23. Map vs Set usage ✅
+24. Iterating map correctly ✅
+25. Space complexity discussion ✅
 
 ---
 
 ## 4️⃣ TWO POINTERS (25 problems)
 
 ### 🟢 EASY
-1. Reverse array  
-2. Reverse string  
-3. Check palindrome  
-4. Move zeros  
-5. Remove duplicates (sorted array)  
-6. Pair sum in sorted array  
-7. Compare two arrays  
-8. Merge two sorted arrays  
-9. Find middle element  
-10. Basic pointer movement  
+1. Reverse array ✅(leetcode or similar - 344)
+2. Reverse string  ✅(leetcode or similar - 344)
+3. Check palindrome ✅(leetcode or similar - 125 & #9)
+4. Move zeros ✅(leetcode or similar - 283)
+5. Remove duplicates (sorted array) ✅(leetcode or similar - 26)
+6. Pair sum in sorted array ✅(leetcode or similar - 167)
+7. Compare two arrays ✅
+8. Merge two sorted arrays ✅(leetcode or similar - 88)
+9. Find middle element ✅(leetcode or similar - 876)
+10. Basic pointer movement ✅
 
 ### 🟡 MEDIUM
 11. Two Sum (sorted)  
