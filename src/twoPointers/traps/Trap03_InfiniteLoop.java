@@ -1,4 +1,4 @@
-package twoPointers;
+package twoPointers.traps;
 
 /*
  TRAP 3
