@@ -122,29 +122,29 @@
 4. Move zeros ✅(leetcode or similar - 283)
 5. Remove duplicates (sorted array) ✅(leetcode or similar - 26)
 6. Pair sum in sorted array ✅(leetcode or similar - 167)
-7. Compare two arrays ✅
+7. Compare two arrays ✅ (leetcode no need , this is basic concept)
 8. Merge two sorted arrays ✅(leetcode or similar - 88)
 9. Find middle element ✅(leetcode or similar - 876)
-10. Basic pointer movement ✅
+10. Basic pointer movement ✅ (leetcode no need , this is basic concept)
 
 ### 🟡 MEDIUM
-11. Two Sum (sorted)  
-12. Container with most water  
-13. Remove element  
-14. Square of sorted array  
-15. Triplet sum  
-16. Partition array  
-17. Valid palindrome II  
-18. Closest pair sum  
-19. Sort colors  
-20. Dutch National Flag  
+11. Two Sum (sorted) ✅(leetcode or similar - 167)
+12. Container with most water ✅(leetcode or similar - 11)
+13. Remove element ✅(leetcode or similar - 27
+14. Square of sorted array ✅(leetcode or similar - 977)
+15. Triplet sum ✅(leetcode or similar - #15)
+16. Partition array ✅(leetcode or similar - #75)
+17. Valid palindrome II ✅(leetcode or similar - 680)
+18. Closest pair sum ✅(leetcode no need , this is basic concept )
+19. Sort colors ✅(leetcode or similar - #75)
+20. Dutch National Flag ✅ (leetcode or similar - #75) (19 & 20 same concept and same code)
 
 ### 🔴 MIXED / TRAPS
-21. Left == right case  
-22. Odd / even length center  
-23. Infinite loop mistakes  
-24. Pointer update order  
-25. Time complexity explanation  
+21. Left == right case ✅
+22. Odd / even length center ✅
+23. Infinite loop mistakes ✅
+24. Pointer update order ✅
+25. Time complexity explanation ✅
 
 ---
 
