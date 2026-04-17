@@ -151,16 +151,16 @@
 ## 5️⃣ SLIDING WINDOW (25 problems)
 
 ### 🟢 EASY
-1. Maximum sum subarray of size K  
-2. Average of subarrays  
-3. Count subarrays  
-4. Fixed window sum  
-5. Window traversal basics  
-6. Min sum window  
-7. Simple window max  
-8. Print all windows  
-9. Window size logic  
-10. Edge cases  
+1. Maximum sum subarray of size K ✅(leetcode or similar - 643)
+2. Average of subarrays  ✅(leetcode or similar - 643)
+3. Count subarrays ✅(Basic concept - no direct exact problem)
+4. Fixed window sum ✅(leetcode or similar - 643 & 239)
+5. Window traversal basics ✅(Basic concept - no direct exact problem)
+6. Min sum window ✅(leetcode or similar - 643)
+7. Simple window max ✅(leetcode or similar - 239)
+8. Print all windows ✅(Basic concept - no direct exact problem)
+9. Window size logic ✅(Basic concept - Used in almost all sliding window problems)
+10. Edge cases ✅(Basic concept - Applies to all sliding window problems)
 
 ### 🟡 MEDIUM
 11. Longest substring without repeating chars  
