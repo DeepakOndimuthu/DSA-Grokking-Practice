@@ -54,6 +54,14 @@ public class VariableWindowTemplate05 {
 }
 
 /*
+
 this sum is find,
 Longest subarray length where sum <= k
- */
+
+[1,2] → sum=3 → len=2
+[2,1] → sum=3 → len=2
+[1,1,1] → sum=3 → len=3 ✅
+Output
+3
+
+*/
