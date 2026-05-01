@@ -163,23 +163,23 @@
 10. Edge cases ✅(Basic concept - Applies to all sliding window problems)
 
 ### 🟡 MEDIUM
-11. Longest substring without repeating chars  
-12. Longest subarray with sum K  
-13. Max consecutive ones  
-14. Smallest subarray with sum ≥ K  
-15. Variable window problems  
-16. Longest repeating character replacement  
-17. Permutation in string  
-18. Anagram occurrences  
-19. Fruits into baskets  
-20. Window expand/shrink logic  
+11. Longest substring without repeating chars ✅ (leetcode or similar - #3)
+12. Longest subarray with sum K ✅ (leetcode or similar - 506)
+13. Max consecutive ones ✅ (leetcode or similar - 1004)
+14. Smallest subarray with sum ≥ K ✅ (leetcode or similar - 209)
+15. Variable window problems ✅ (Basic concept - Use this longest, smallest, max consecutive problems)
+16. Longest repeating character replacement ✅ (leetcode or similar - 424)
+17. Permutation in string ✅ (leetcode or similar - 567)
+18. Anagram occurrences ✅ (leetcode or similar - 438)
+19. Fruits into baskets ✅ (leetcode or similar - 904)
+20. Window expand/shrink logic ✅ (core concept - no direct exact problem)
 
 ### 🔴 MIXED / TRAPS
-21. Window not shrinking  
-22. Incorrect window size  
-23. HashMap + window confusion  
-24. Negative numbers issue  
-25. Complexity questions  
+21. Window not shrinking ✅
+22. Incorrect window size ✅
+23. HashMap + window confusion ✅
+24. Negative numbers issue ✅
+25. Complexity questions ✅
 
 ---
 
