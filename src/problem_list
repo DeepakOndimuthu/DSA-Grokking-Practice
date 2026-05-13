@@ -186,12 +186,12 @@
 ## 🟡 LEVEL 1 – CORE DATA STRUCTURES
 
 ### 6️⃣ STACK
-- Valid parentheses  
-- Reverse string using stack  
-- Min stack  
-- Next greater element  
-- Stack using array  
-- Stack using linked list  
+- Valid parentheses ✅(leetcode or similar - #20)
+- Reverse string using stack ✅(leetcode or similar - 344)
+- Min stack ✅(leetcode or similar - 155)
+- Next greater element ✅(leetcode or similar - 496, 503 & 739)
+- Stack using array ✅(Basic concept)
+- Stack using linked list ✅(Basic concept)
 
 ### 7️⃣ QUEUE / DEQUE
 - Queue implementation  
