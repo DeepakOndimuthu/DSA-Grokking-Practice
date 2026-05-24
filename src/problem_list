@@ -194,11 +194,11 @@
 - Stack using linked list ✅(Basic concept)
 
 ### 7️⃣ QUEUE / DEQUE
-- Queue implementation  
-- Circular queue  
-- Stack using queue  
-- Sliding window maximum  
-- Deque basics  
+- Queue implementation ✅(leetcode or similar - 622 & 232)
+- Circular queue  ✅(leetcode or similar - 622)
+- Stack using queue ✅(leetcode or similar - 225)
+- Sliding window maximum ✅(leetcode or similar - 239)
+- Deque basics  ✅(leetcode or similar - 641)
 
 ### 8️⃣ LINKED LIST (VERY IMPORTANT)
 - Traverse linked list  
