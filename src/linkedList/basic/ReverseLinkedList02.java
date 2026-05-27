@@ -17,6 +17,8 @@ Status:
 LeetCode:
 
 206 (Reverse Linked List)
+92 → Reverse Linked List II
+25 → Reverse Nodes in K Group
 
 Input:
 10 -> 20 -> 30 -> 40
