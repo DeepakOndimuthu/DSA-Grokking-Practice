@@ -17,6 +17,9 @@ Status:
 LeetCode:
 
 141 (Linked List Cycle)
+142 → Linked List Cycle II
+202 → Happy Number (same slow & fast idea)
+287 → Find the Duplicate Number (same pattern)
 
 Input:
 
