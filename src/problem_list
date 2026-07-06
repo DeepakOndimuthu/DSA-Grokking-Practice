@@ -201,12 +201,12 @@
 - Deque basics  ✅(leetcode or similar - 641)
 
 ### 8️⃣ LINKED LIST (VERY IMPORTANT)
-- Traverse linked list  
-- Reverse linked list  
-- Find middle  
-- Detect cycle  
-- Remove nth node  
-- Merge two lists  
+- Traverse linked list ✅(leetcode or similar - 876 & 203)
+- Reverse linked list ✅(leetcode or similar - 206, 92 & 25)
+- Find middle ✅(leetcode or similar - 876, 234, 141 & 143)
+- Detect cycle ✅(leetcode or similar - 141 , 142, 202 & 287)
+- Remove nth node ✅(leetcode or similar - 19, 21, 61 & 86)
+- Merge two lists ✅(leetcode or similar - 21, 23, 88 & 148)
 
 ### 9️⃣ RECURSION (BASIC)
 - Print numbers  
